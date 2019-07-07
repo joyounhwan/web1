@@ -1,0 +1,7 @@
+<ul id="menu">
+<li class="a"><a href="http://localhost?value=1">CALENDAR</a></li>
+<li class="a"><a href="http://localhost?value=2">FORUM</a></li>
+<li class="a"><a href="http://localhost?value=3">ABOUT</a></li>
+<li class="b" id="b1"><a href="http://localhost?value=4">LOG IN</a></li>
+<li class="b"><a href="http://localhost?value=5">REGISTER</a></li>
+</ul>
